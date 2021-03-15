@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @mariow21</h1>
+<h1>👋 Hi, I’m Mario (@mariow21)</h1>
 <ul>
   <li>👀 I’m interested in Backend</li>
   <li>🌱 I’m currently learning Golang & React</li>
