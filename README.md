@@ -29,7 +29,6 @@
 <h3>Contact me</h3>
   <a href="https://www.instagram.com/mario_w21/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30" height="30"></a>
   <a href="https://www.linkedin.com/in/mario-william21/"><img src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/mario-william21/"><img src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="30" height="30"></a>
   
 <!---
 mariow21/mariow21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
